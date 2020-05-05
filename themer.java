@@ -30,7 +30,7 @@ public class themer {
 	public static void decompileAPK() {
 		  try {
 			  	System.out.println("Decompiling the APK");
-	            runProcess("java -jar apktool.jar d ../Android/"+appname+".apk ");
+	            runProcess("java -jar apktool.jar d "+ appname+".apk ");
 	            System.out.println("Successfully Decompiled");
 	    		String directory = getDirectory("colors");
 	            docFactory = DocumentBuilderFactory.newInstance();
