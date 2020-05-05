@@ -8,6 +8,8 @@
 5. Place the apk in the same folder as the other files and run.
 
 ## Screenshots
+<center
 <img src="https://github.com/keshav99/Android-App-Theme-Engine/blob/master/Screenshot1.png" height=400px>
 <img src="https://github.com/keshav99/Android-App-Theme-Engine/blob/master/Screenshot2.png" height=400px>
 <img src="https://github.com/keshav99/Android-App-Theme-Engine/blob/master/Screenshot3.png" height=400px>
+</center>
